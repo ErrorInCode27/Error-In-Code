@@ -9,6 +9,10 @@ What I'm Working On:
 
 [![Error's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=error-in-code&theme=synthwave&hide=batchfile,powershell&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Error-in-Code&theme=synthwave&hide_border=true)
+
+![](https://github-profile-trophy.vercel.app/?username=Error-in-Code&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
 Website: https://error-in-code.github.io
 
 Stats from https://github.com/anuraghazra/github-readme-stats
