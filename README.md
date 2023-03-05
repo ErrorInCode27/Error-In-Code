@@ -10,6 +10,8 @@ What I'm Working On:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,rust,bevy,blender,haxe,haxeflixel,bash)](https://skillicons.dev)
 
 ## My Stats
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=errorincode27&theme=github_dark)
+
 [![Error's GitHub stats](https://github-readme-stats.vercel.app/api?username=errorincode27&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Error's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorincode27&theme=onedark&hide=batchfile,powershell&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
