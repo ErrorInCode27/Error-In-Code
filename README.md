@@ -2,11 +2,12 @@ What I'm Working On:
 - Multiple games
 - Website revamp
 - A successor to PyClicker
+- deb packager
 
-## Things I'm Good At/Know
+## What I Know
 [![My Skills](https://skillicons.dev/icons?i=godot,java,c,cpp,kotlin,md,py,lua,idea,linux)](https://skillicons.dev)
 
-## What I'm Learning or Want to Learn
+## What I Want to Learn
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,rust,bevy,blender,haxe,haxeflixel,bash)](https://skillicons.dev)
 
 ## My Stats
