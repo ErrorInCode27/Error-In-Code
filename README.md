@@ -1,20 +1,9 @@
-What I'm Working On:
-- Multiple games
-- Website revamp
-- A successor to PyClicker
-- deb packager
+## Hi!
 
-## What I Know
-[![My Skills](https://skillicons.dev/icons?i=godot,java,c,cpp,kotlin,md,py,lua,idea,linux)](https://skillicons.dev)
+I program simple apps and games for fun in my spare time.
 
-## What I Want to Learn
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,rust,bevy,blender,haxe,haxeflixel,bash)](https://skillicons.dev)
-
-## My Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=errorincode27&theme=github_dark)
-
-[![Error's GitHub stats](https://github-readme-stats.vercel.app/api?username=errorincode27&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Error's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errorincode27&theme=onedark&hide=batchfile,powershell&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Stats from https://github.com/anuraghazra/github-readme-stats
+### What I'm Doing
+- Learning Rust
+- Making a `.deb` packager
+- Making addons or mods to random games I've played
+- Making some simple games to get into game development
